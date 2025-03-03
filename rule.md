@@ -22,9 +22,6 @@
 ```
 <type>(<scope>): <subject>
 
-<body>
-
-<footer>
 ```
 
 ### Type
