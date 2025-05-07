@@ -168,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1621cb98da545fd8",
+  "active": "e6fc0b833e13e3b2",
   "lastOpenFiles": [
-    "action-plan/short-term-plan.md",
+    "target/marketer.md",
+    "target/chief.md",
     "position/position.md",
+    "action-plan/short-term-plan.md",
     "action-plan/mid-term-plan.md"
   ]
 }
